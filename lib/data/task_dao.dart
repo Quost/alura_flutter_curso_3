@@ -1,5 +1,5 @@
-import 'package:nosso_primeiro_projeto/components/task.dart';
-import 'package:nosso_primeiro_projeto/data/database.dart';
+import 'package:task_organizer/components/task.dart';
+import 'package:task_organizer/data/database.dart';
 import 'package:sqflite/sqflite.dart';
 
 class TaskDao {

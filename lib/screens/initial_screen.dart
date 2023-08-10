@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:nosso_primeiro_projeto/components/task.dart';
-import 'package:nosso_primeiro_projeto/data/task_dao.dart';
-import 'package:nosso_primeiro_projeto/screens/form_screen.dart';
+import 'package:task_organizer/components/task.dart';
+import 'package:task_organizer/data/task_dao.dart';
+import 'package:task_organizer/screens/form_screen.dart';
 
 class InitialScreen extends StatefulWidget {
   const InitialScreen({Key? key}) : super(key: key);

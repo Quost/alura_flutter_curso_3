@@ -1,4 +1,4 @@
-package com.example.nosso_primeiro_projeto
+package com.example.task_organizer
 
 import io.flutter.embedding.android.FlutterActivity
 
